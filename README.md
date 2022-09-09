@@ -1,7 +1,8 @@
 # Tix-tac-toe
 
 A simple tic-tac-toe example using nextjs, reactjs and typescript.
-<br>
+
+
 Deployed at: https://tix-tac-toe.netlify.app/
 
 
