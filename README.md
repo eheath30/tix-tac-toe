@@ -1,4 +1,4 @@
-#Tix-tac-toe
+# Tix-tac-toe
 
 A simple tic-tac-toe example using nextjs, reactjs and typescript.
 <br>
